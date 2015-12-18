@@ -1,0 +1,27 @@
+h2.title{
+    width: 80px;
+    margin: 0px auto;
+}
+div.container{
+    width: 150px;
+    margin: 0px auto;
+}
+.display{
+    width: 160px;
+}
+.display,.clear{
+    width: 100%;
+}
+input.number,input.result,input.operator{
+    width:100%;
+}
+table{
+    border: 0px;
+    width: 100%;
+}
+td{
+    padding: 0px;
+}
+tr{
+    border: 0px;
+}
